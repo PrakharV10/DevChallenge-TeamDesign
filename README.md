@@ -68,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://prakhar-varshney-mk2.netlify.app/)
-- GitHub [@your-username](https://github.com/PrakharV10)
-- Twitter [@your-twitter](https://twitter.com/Prakhar10V)
+- Website [prakhar-varshney-mk2.netlify.app](https://prakhar-varshney-mk2.netlify.app/)
+- GitHub [@PrakharV10](https://github.com/PrakharV10)
+- Twitter [@Prakhar10V](https://twitter.com/Prakhar10V)
