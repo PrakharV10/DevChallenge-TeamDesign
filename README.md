@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{team-design-pv.netlify.app/}">
+    <a href="https://team-design-pv.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/fQ690FX1TpR0o9vY9LMo">
       Solution
     </a>
     <span> | </span>
